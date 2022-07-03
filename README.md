@@ -1,1 +1,1 @@
-As part of my learning and experimentation with the Perl language.
+A repository for programs written in Perl.
